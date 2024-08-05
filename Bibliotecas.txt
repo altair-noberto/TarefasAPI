@@ -1,0 +1,4 @@
+Entity Framework Core (+Tools, Design, SqlServer)
+Bcrypt.Net-Next
+Swashbuckle.AspNetCore
+IdentityModel.Tokens
