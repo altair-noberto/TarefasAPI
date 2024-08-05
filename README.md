@@ -7,7 +7,9 @@ Este repositório é a API do aplicativo [Tarefas](https://github.com/altair-nob
 **Requisitos:**
 
 [.NET 8](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
+
 [SQL Server 2022](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+
 [(Opcional) Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ## Configuração do CORS e banco de dados
@@ -60,6 +62,7 @@ No arquivo "Settings.cs" há uma string de uma chave utilizada para criação da
 ## Bibliotecas adicionais
 
 [Entity Framework Core (+Tools, Design, SqlServer)](https://learn.microsoft.com/pt-br/ef/core/) - Para integração com o banco de dados SQL Server.
+
 [Bcrypt.Net-Next](https://github.com/BcryptNet/bcrypt.net) - Para criptografia das senhas de autenticação.
-[Swashbuckle.AspNetCore] - Adiciona recursos para teste de autorização com o Bearer no Swagger
-[IdentityModel.Tokens] - Adiciona recursos para implementação do Token JWT.
+
+[Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Adiciona recursos para teste de autorização com o Bearer no Swagger.
