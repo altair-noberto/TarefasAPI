@@ -1,6 +1,6 @@
 # TarefasAPI
 
-Este repositório é a API do aplicativo [Tarefas](https://github.com/altair-noberto/Tarefas).
+Este repositório é uma API para o aplicativo [Tarefas](https://github.com/altair-noberto/Tarefas).
 
 # Instalação
 
