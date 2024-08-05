@@ -36,7 +36,7 @@ No CLI, execute os seguintes comandos:
 ```
 'cd .\TarefasAPI\'
 ```
-(Entra na pasta do projeto)
+Entra na pasta do projeto.
 
 ```
 dotnet tool install --global dotnet-ef
